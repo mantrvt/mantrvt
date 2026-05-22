@@ -1,32 +1,28 @@
-## Hi there 👋
+<div align="center">
+<img src="./assets/readme_background.png" alt="code with coco" />
 
-<!--
-**mantrvt/mantrvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*random little tools i build for fun*
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## <img src="./assets/world.png" height="36" style="vertical-align: middle;" /> &nbsp; hola mundo
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mantrvt&show_icons=true&theme=radical)
+i'm coco, a computer science major at stanford university. this is where i share the small fun projects i build for myself, and break them down so anyone can follow along. 
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<br>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_USERNAME" />
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</p>
+## <img src="./assets/folder.png" height="36" style="vertical-align: middle;" /> &nbsp; projects
+
+each folder has its own setup guide with technical details in its respective readme. try forking/copying the code, and playing around with it. feel free to dm me with feedback and/or other episode topics you want to see!
+
+|   | project | description |
+|----|---------|--------------|
+| <img src="./assets/gcal.png" height="36" style="vertical-align: middle;" /> | [`gcal-declutterer`](./gcal-declutterer) | auto-fades past google calendar events to gray so the weekend feels closer |
+| <img src="./assets/terminal.svg" height="36" style="vertical-align: middle;" /> | [`pink-terminal`](./pink-terminal) |  making your terminal prettier than you ever thought possible |
+| <img src="./assets/instagram.png" height="36" style="vertical-align: middle;" /> | [`ig-unfollows`](./ig-unfollows) |  finding out who unfollowed you and didn't remove you from their following |
+
+*more coming soon!!!*
+
+## <img src="./assets/wink.png" height="36" style="vertical-align: middle;" /> &nbsp; kudos
+
+feel free to copy, fork, and share (star this repo while you're at it, hehe). if you make a video with it, tag me! and if you remix the code in your own project, a quick credit in the file is appreciated.
+- <img src="./assets/tiktok.png" height="20" style="vertical-align: middle;" /> &nbsp; [`@cocopuffffffffs`](https://tiktok.com/@cocopuffffffffs)
+- <img src="./assets/instagram.png" height="20" style="vertical-align: middle;" /> &nbsp; [`@cocohdzz`](https://instagram.com/cocohdzz)
