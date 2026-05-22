@@ -2,11 +2,11 @@
   <img src="images/" alt="" />
 </div>
 
-## <img src="./assets/img/world.png" height="36" style="vertical-align: middle;" /> &nbsp; hola mundo
+## <img src="assets/img/world.png" height="36" style="vertical-align: middle;" /> &nbsp; hola mundo
 
-i'm coco, a computer science major at stanford university. this is where i share the small fun projects i build for myself, and break them down so anyone can follow along. 
+This is where i share the small fun projects i build for myself, and break them down so anyone can follow along. 
 
-## <img src="./assets/folder.png" height="36" style="vertical-align: middle;" /> &nbsp; projects
+## <img src="assets/img/folder.png" height="36" style="vertical-align: middle;" /> &nbsp; projects
 
 each folder has its own setup guide with technical details in its respective readme. try forking/copying the code, and playing around with it. feel free to dm me with feedback and/or other episode topics you want to see!
 
