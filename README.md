@@ -2,7 +2,7 @@
   <img src="images/" alt="" />
 </div>
 
-## <img src="./assets/world.png" height="36" style="vertical-align: middle;" /> &nbsp; hola mundo
+## <img src="./assets/img/world.png" height="36" style="vertical-align: middle;" /> &nbsp; hola mundo
 
 i'm coco, a computer science major at stanford university. this is where i share the small fun projects i build for myself, and break them down so anyone can follow along. 
 
