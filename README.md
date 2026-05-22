@@ -1,8 +1,5 @@
 <div align="center">
-<img src="images/readme_background.png" alt="code with coco" />
-
-*random little tools i build for fun*
-
+  <img src="images/" alt="" />
 </div>
 
 ## <img src="./assets/world.png" height="36" style="vertical-align: middle;" /> &nbsp; hola mundo
