@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/readme_background.png" alt="code with coco" />
+<img src="images/readme_background.png" alt="code with coco" />
 
 *random little tools i build for fun*
 
