@@ -32,9 +32,9 @@ Dive into any project, find its own setup guide and technical details, and start
   <a href="https://instagram.com/" style="text-decoration: none;">
     <img src="assets/img/instagram.png" height="30" style="margin: 0 15px; vertical-align: middle;" alt="Instagram" />
   </a>
+</div>
+<div align="center">
   <a href="https://tiktok.com/" style="text-decoration: none;">
     <img src="assets/img/tiktok.png" height="30" style="margin: 0 15px; vertical-align: middle;" alt="Instagram" />
   </a>
-  <br /><br />
-  <i></i>
 </div>
