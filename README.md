@@ -30,10 +30,10 @@ Dive into any project, find its own setup guide and technical details, and start
 <div align="center">
   <br />
   <a href="https://instagram.com/" style="text-decoration: none;">
-    <img src="assets/img/instagram.png" height="30" style="margin: 0 15px; vertical-align: middle;" alt="Instagram" /> <strong></strong>
-  </a>
+    <img src="assets/img/instagram.png" height="30" style="margin: 0 15px; vertical-align: middle;" alt="Instagram" /> <strong>Instah</strong>
+  </a> <br>
   <a href="https://tiktok.com/" style="text-decoration: none;">
-    <img src="assets/img/tiktok.png" height="30" style="margin: 0 15px; vertical-align: middle;" alt="Instagram" /> <strong></strong>
+    <img src="assets/img/tiktok.png" height="30" style="margin: 0 15px; vertical-align: middle;" alt="Instagram" /> <strong>Tiktokk</strong>
   </a>
   <br /><br />
   <i></i>
