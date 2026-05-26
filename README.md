@@ -1,9 +1,7 @@
 <div align="center">
-  <img src="assets/img/hello.png" alt="Hello Banner" width="100%" style="max-width: 800px; border-radius: 12px; margin-bottom: 20px;" />
+  <img src="" alt="Hello Banner" width="100%" style="max-width: 800px; border-radius: 12px; margin-bottom: 20px;" />
   
-  # 🚀 Welcome to My Creative Code Sandbox
-  
-  *Where ideas come to play, and code becomes art.*
+  # Welcome to My Creative Code Sandbox
 </div>
 
 ---
@@ -18,9 +16,7 @@ Whether you're here to learn, get inspired, or just poke around, you're in the r
 
 ## <img src="assets/img/folder.png" height="30" style="vertical-align: middle;" /> &nbsp; Featured Projects
 
-Each folder is an independent universe. Dive into any project, find its own setup guide and technical details, and start tinkering! 
-
-> **💡 Pro Tip:** Try forking or copying the code and making it your own.
+Dive into any project, find its own setup guide and technical details, and start tinkering! 
 
 |   | Project | Description |
 |:---:|:---|:---|
@@ -30,7 +26,6 @@ Each folder is an independent universe. Dive into any project, find its own setu
 
 ## <img src="assets/img/wink.png" height="30" style="vertical-align: middle;" /> &nbsp; Let's Connect
 
-Feel free to copy, fork, and share this repository.
 
 <div align="center">
   <br />
