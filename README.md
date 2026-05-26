@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/" alt="" />
+  <img src="assets/img/hello.png" alt="" />
 </div>
 
 ## <img src="assets/img/world.png" height="36" style="vertical-align: middle;" /> &nbsp; hola mundo
