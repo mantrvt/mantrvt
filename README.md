@@ -1,10 +1,10 @@
-<div align="center">
+<!-- <div align="center">
   <img src="" alt="Hello Banner" width="100%" style="max-width: 800px; border-radius: 12px; margin-bottom: 20px;" />
   
   # Welcome to My Creative Code Sandbox
-</div>
+</div> 
 
----
+--- -->
 
 ## <img src="assets/img/world.png" height="30" style="vertical-align: middle;" /> &nbsp; About This Space
 
@@ -37,5 +37,5 @@ Dive into any project, find its own setup guide and technical details, and start
     <img src="assets/img/instagram.png" height="30" style="margin: 0 15px; vertical-align: middle;" alt="Instagram" /> <strong></strong>
   </a>
   <br /><br />
-  <i>Stay creative. Stay curious.</i>
+  <i></i>
 </div>
