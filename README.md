@@ -24,7 +24,7 @@ Each folder is an independent universe. Dive into any project, find its own setu
 
 |   | Project | Description |
 |:---:|:---|:---|
-| <img src="assets/img/gcal.png" height="40" /> | **[`gcal-declutterer`](./gcal-declutterer)** | Auto-fades past Google Calendar events to gray. Make the weekend feel closer! 🗓️ |
+| <img src="assets/img/folder.png" height="40" /> | **[`NoLoginTransfer`](https://github.com/mantrvt/NoLoginTransfer)** | Instant, privacy-focused, serverless P2P file sharing via WebRTC. Data is never stored on a central server! 🔒 |
 
 ---
 
@@ -35,7 +35,7 @@ Feel free to copy, fork, and share this repository.
 <div align="center">
   <br />
   <a href="https://tiktok.com/" style="text-decoration: none;">
-    <img src="assets/img/tiktok.png" height="30" style="margin: 0 15px; vertical-align: middle;" alt="TikTok" /> <strong></strong>
+    <img src="assets/img/tiktok.png" height="30" style="margin: 0 15px; vertical-align: middle;" alt="TikTok" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/" style="text-decoration: none;">
