@@ -22,21 +22,7 @@ Whether you're here to learn, get inspired, or just poke around, you're in the r
 | | Project | Description |
 |:---:|:---|:---|
 | <img src="assets/images/new/send.svg" height="40" /> | **[`Posman`](https://posmans.vercel.app/)** | Share files and text directly between devices. No login, no sign-up. Connect with a 6-digit code or QR code, and everything travels peer-to-peer over WebRTC, so nothing is stored on a server. |
-
----
-
-## <img src="assets/images/terminal.svg" height="30" align="absmiddle" /> &nbsp; Tech I Play With
-
-<img src="assets/images/terminal.svg" height="40" alt="terminal" />
-<img src="assets/images/motherboard.svg" height="40" alt="hardware" />
-<img src="assets/images/bug.svg" height="40" alt="debugging" />
-<img src="assets/images/github.svg" height="40" alt="git" />
-
----
-
-## <img src="assets/images/new/lock.svg" height="30" align="absmiddle" /> &nbsp; Privacy First
-
-I like building tools that respect people: no accounts, no tracking, no data hoarding.
+| <img src="assets/img/folder.png" height="40" /> | **[`NoLoginTransfer`](https://transfuh.vercel.app/)** | Build this in free time during the internship beeb boop. Send files no login yeay |
 
 ---
 
