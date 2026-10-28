@@ -4,7 +4,7 @@
   <img src="assets/images/cactus.svg" height="90" alt="cactus" />
 
   # Creative Code Sandbox
-  *Small, fun, experimental projects I build for myself.*
+  *Small, experimental projects I build for myself.*
 </div>
 
 ---
@@ -22,7 +22,7 @@ Whether you're here to learn, get inspired, or just poke around, you're in the r
 | | Project | Description |
 |:---:|:---|:---|
 | <img src="assets/images/new/send.svg" height="40" /> | **[`Posman`](https://posmans.vercel.app/)** | Share files and text directly between devices. No login, no sign-up. Connect with a 6-digit code or QR code, and everything travels peer-to-peer over WebRTC, so nothing is stored on a server. |
-| <img src="assets/img/folder.png" height="40" /> | **[`NoLoginTransfer`](https://transfuh.vercel.app/)** | Build this in free time during the internship beeb boop. Send files no login yeay |
+| <img src="assets/img/folder.png" height="40" /> | **[`Transfuh`](https://transfuh.vercel.app/)** | Build this in free time during the internship beeb boop. Send files no login yeay |
 
 ---
 
