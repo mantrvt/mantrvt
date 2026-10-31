@@ -11,7 +11,6 @@
 
 Bello! I build small projects for fun and for learning. Every project in here started as random ideas that seemed fun at 2am.
 
----
 
 ## <img src="assets/img/folder.png" height="30" align="absmiddle" /> &nbsp; Featured Projects
 
@@ -19,7 +18,6 @@ Bello! I build small projects for fun and for learning. Every project in here st
 |:---:|:---|:---|
 | <img src="assets/images/new/sharelah.svg" height="40" /> | **[`Try Me`](https://sharelah.onrender.com/)** | Share files and text between devices with just a code or QR. No login, and everything vanishes when you delete the session. |
  
- ---
 
 ## <img src="assets/img/wink.png" height="30" align="absmiddle" /> &nbsp; Let's Connect
 
