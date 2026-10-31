@@ -3,13 +3,9 @@
   <img src="assets/images/robot.svg" height="90" alt="robot" />
   <img src="assets/images/cactus.svg" height="90" alt="cactus" />
 
----
-
   # Creative Code Sandbox
   *Small, experimental projects I build for myself.*
 </div>
-
----
 
 ## <img src="assets/images/new/lightbulb.svg" height="30" align="absmiddle" /> &nbsp; About This Space
 
