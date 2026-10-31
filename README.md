@@ -11,9 +11,7 @@
 
 ## <img src="assets/images/new/lightbulb.svg" height="30" align="absmiddle" /> &nbsp; About This Space
 
-Welcome to my digital playground! This repository is a curated collection of small projects I build for fun and for learning. Each one is broken down into digestible pieces so **anyone can follow along**.
-
-Whether you're here to learn, get inspired, or just poke around, you're in the right place.
+Bello! I build small projects for fun and for learning. Every project in here started as random ideas that seemed fun at 2am.
 
 ---
 
@@ -21,10 +19,9 @@ Whether you're here to learn, get inspired, or just poke around, you're in the r
 
 | | Project | Description |
 |:---:|:---|:---|
-| <img src="assets/images/new/send.svg" height="40" /> | **[`Posman`](https://posmans.vercel.app/)** | Share files and text directly between devices. No login, no sign-up. Connect with a 6-digit code or QR code, and everything travels peer-to-peer over WebRTC, so nothing is stored on a server. |
-| <img src="assets/img/folder.png" height="40" /> | **[`Transfuh`](https://transfuh.vercel.app/)** | Build this in free time during the internship beeb boop. Send files no login yeay |
-
----
+| <img src="assets/images/new/send.svg" height="40" /> | **[`Sharelah`](https://sharelah.onrender.com/)** | Share files and text between devices with just a code or QR. No login, and everything vanishes when you delete the session. |
+ 
+ ---
 
 ## <img src="assets/img/wink.png" height="30" align="absmiddle" /> &nbsp; Let's Connect
 
