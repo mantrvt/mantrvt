@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="assets/images/bear.svg" height="90" alt="bear" />
-  <img src="assets/images/robot.svg" height="90" alt="robot" />
-  <img src="assets/images/cactus.svg" height="90" alt="cactus" />
+  <img src="assets/images/new/bilis.png" alt="bilis" />
 
   ## B152610067
   *Small, experimental projects I build for myself.*
