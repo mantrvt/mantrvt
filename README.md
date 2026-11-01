@@ -1,6 +1,6 @@
 <div align="center">
   <img src="assets/images/new/bilis.png" alt="bilis" />
-  
+
   ## B152610067
   *Small, experimental projects I build for myself.*
 </div>
@@ -14,7 +14,7 @@ Bello! I build small projects for fun and for learning. Every project in here st
 
 | | Project | Description |
 |:---:|:---|:---|
-| <img src="assets/images/new/sharelah.svg" height="40" /> | **[`Try Me`](https://sharelah.onrender.com/)** | Share files and text between devices with just a code or QR. No login, and everything vanishes when you delete the session. |
+| <img src="assets/images/new/sharelah.svg" height="40" /> | **[`TryMe`](https://sharelah.onrender.com/)** | Share files and text between devices with just a code or QR. No login, and everything vanishes when you delete the session. |
  
 
 ## <img src="assets/img/wink.png" height="30" align="absmiddle" /> &nbsp; Let's Connect
