@@ -14,7 +14,7 @@ Bello! I build small projects for fun and for learning. Every project in here st
 
 | | Project | Description |
 |:---:|:---|:---|
-| <img src="assets/images/new/sharelah.svg" height="40" /> | **[`TryMe`](https://sharelah.onrender.com/)** | Share files and text between devices with just a code or QR. No login, and everything vanishes when you delete the session. |
+| <img src="assets/images/new/sharelah.png" height="40" /> | **[`TryMe`](https://sharelah.onrender.com/)** | Share files and text between devices with just a code or QR. No login, and everything vanishes when you delete the session. |
  
 
 ## <img src="assets/img/wink.png" height="30" align="absmiddle" /> &nbsp; Let's Connect
